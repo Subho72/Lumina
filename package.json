@@ -1,0 +1,1 @@
+{"name":"lumina","version":"1.0.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"latest","react":"latest","mongodb":"^5.0.0","uuid":"^9.0.0","swr":"^2.2.0","aws-sdk":"^2.1480.0"}}
